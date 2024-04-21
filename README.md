@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="me | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="me | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="me | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="me | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Telegram_logo_icon.svg" />][telegram]
 
 
 [instagram]: https://www.instagram.com/inspireprice/
