@@ -1,6 +1,6 @@
 ### Greetings, I'm Artem Ponomarev 
 
-## I'm a Junior Data Scientist, Medical student! 
+## I'm a Junior Data Scientist with Medical Education! 
 
 - 🧬 I have a passion for harnessing the power of data to revolutionize the field of healthcare.
 - 💻 My journey in learning Data Science began with Yandex Practicum, where I immersed myself in the intricacies of this specialization and gained experience.
