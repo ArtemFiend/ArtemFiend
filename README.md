@@ -1,11 +1,10 @@
 ### Greetings, I'm Artem Ponomarev 
 
-## I'm a Data Scientist with Medical Education! 
+## I'm a Data Scientist in MedTech! 
 
-- 🧬 I have a passion for harnessing the power of data to revolutionize the field of healthcare.
-- 💻 My journey in learning Data Science began with Yandex Practicum, where I immersed myself in the intricacies of this specialization and gained experience.
-- ⚡️ Now, my sights are set on the captivating realm of artificial intelligence in medicine, where I aspire to contribute my skills and insights to propel advancements that have the potential to touch countless lives.
-
+- 🧬 I am passionate about leveraging data to drive innovation in healthcare.
+- 💻 I have developed a strong foundation in Data Science through both academic training and practical experience.
+- ⚡️ Currently, I am focused on the transformative potential of artificial intelligence in medicine, aiming to apply my expertise and insights to advance solutions that can positively impact countless lives.
 
 ### Connect with me:
 
