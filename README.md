@@ -12,13 +12,12 @@
 [<img align="left" alt="me | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Telegram_logo_icon.svg" />][telegram]
 
 
-[instagram]: https://www.instagram.com/inspireprice/
-[telegram]: https://www.t.me/ArtemFiend/
+[telegram]: https://www.t.me/artemfiend
 
 <br />
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" />
-<img align="left" alt="Data Science" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
-<img align="left" alt="Data Science" width="26px" src="https://static.thenounproject.com/png/2245695-200.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
+<img align="left" alt="Machine Learning" width="26px" src="https://static.thenounproject.com/png/2245695-200.png" />
