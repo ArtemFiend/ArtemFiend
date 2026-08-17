@@ -4,50 +4,42 @@
 
 I build machine learning solutions at the intersection of **AI, medicine, and biomedical research**.
 
-- 🩺 Combining a medical background with Data Science and Machine Learning
-- 🧠 Working with **classical ML, Deep Learning, Computer Vision, and biomedical data**
-- 🔬 Experienced with medical imaging, clinical, microbiological, and genetic datasets
-- ⚙️ Building end-to-end ML pipelines: from data preprocessing and experimentation to validation and deployment
-- 🚀 Interested in applied AI systems that can make healthcare more accurate, efficient, and personalized
+* 🩺 Combining a **medical background** with Data Science and Machine Learning
+* 🧠 Working with **classical ML, Deep Learning, Computer Vision, and biomedical data**
+* 🔬 Experienced with **medical imaging, clinical, microbiological, and genetic datasets**
+* ⚙️ Building **end-to-end ML pipelines** — from data preprocessing and experimentation to validation and deployment
+
+---
 
 ### Connect with me
 
-<a href="https://www.t.me/artemfiend">
-  <img alt="Telegram" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Telegram_%282%29.png" />
-</a>
-
-<br />
-
-### Languages and Tools
-
 <p>
-  <img alt="Python" title="Python" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
-  &nbsp;
-  <img alt="PyTorch" title="PyTorch" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" />
-  &nbsp;
-  <img alt="NumPy" title="NumPy" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" />
-  &nbsp;
-  <img alt="Pandas" title="Pandas" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" />
-  &nbsp;
-  <img alt="Jupyter Notebook" title="Jupyter Notebook" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" />
-  &nbsp;
-  <img alt="Hugging Face" title="Hugging Face" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png" />
-  &nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
-  &nbsp;
-  <img alt="Docker" title="Docker" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
-  &nbsp;
-  <img alt="Git" title="Git" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
-  &nbsp;
-  <img alt="FastAPI" title="FastAPI" height="36px"
-       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" />
+  <a href="https://t.me/artemfiend">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png"
+         alt="Telegram"
+         title="Telegram"
+         width="36"
+         height="36" />
+  </a>
 </p>
+
+###  DS/ML & Tech Stack
+<p>
+  <img src="https://img.icons8.com/color/48/python--v2.png" alt="Python" title="Python" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch" title="PyTorch" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" title="NumPy" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" title="Jupyter Notebook" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" title="OpenCV" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker" width="42" height="42">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" width="42" height="42">
+</p>
+
+**Machine Learning:** Classical ML · Deep Learning · Computer Vision · Segmentation · Anomaly Detection · Transformers
+
+**Data:** Medical Imaging · Clinical Data · Microbiological Data · Genetic Data
+
+**Engineering:** Python · PyTorch · scikit-learn · OpenCV · NumPy · Pandas · SciPy · PostgreSQL · Docker · Git · FastAPI
+
+---
