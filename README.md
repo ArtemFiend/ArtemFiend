@@ -1,23 +1,53 @@
-### Greetings, I'm Artem Ponomarev 
+# Hi, I'm Artem Ponomarev 👋
 
-## I'm a Data Scientist in MedTech! 
+## Data Scientist & ML Engineer in MedTech 🧬
 
-- 🧬 I am passionate about leveraging data to drive innovation in healthcare.
-- 💻 I have developed a strong foundation in Data Science through both academic training and practical experience.
-- ⚡️ Currently, I am focused on the transformative potential of artificial intelligence in medicine, aiming to apply my expertise and insights to advance solutions that can positively impact countless lives.
+I build machine learning solutions at the intersection of **AI, medicine, and biomedical research**.
 
-### Connect with me:
+- 🩺 Combining a medical background with Data Science and Machine Learning
+- 🧠 Working with **classical ML, Deep Learning, Computer Vision, and biomedical data**
+- 🔬 Experienced with medical imaging, clinical, microbiological, and genetic datasets
+- ⚙️ Building end-to-end ML pipelines: from data preprocessing and experimentation to validation and deployment
+- 🚀 Interested in applied AI systems that can make healthcare more accurate, efficient, and personalized
 
-[<img align="left" alt="me | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-[<img align="left" alt="me | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Telegram_logo_icon.svg" />][telegram]
+### Connect with me
 
-
-[telegram]: https://www.t.me/artemfiend
+<a href="https://www.t.me/artemfiend">
+  <img alt="Telegram" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Telegram_%282%29.png" />
+</a>
 
 <br />
 
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
-<img align="left" alt="Machine Learning" width="26px" src="https://static.thenounproject.com/png/2245695-200.png" />
+### Languages and Tools
+
+<p>
+  <img alt="Python" title="Python" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
+  &nbsp;
+  <img alt="PyTorch" title="PyTorch" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" />
+  &nbsp;
+  <img alt="NumPy" title="NumPy" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" />
+  &nbsp;
+  <img alt="Pandas" title="Pandas" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" />
+  &nbsp;
+  <img alt="Jupyter Notebook" title="Jupyter Notebook" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" />
+  &nbsp;
+  <img alt="Hugging Face" title="Hugging Face" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png" />
+  &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
+  &nbsp;
+  <img alt="Docker" title="Docker" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+  &nbsp;
+  <img alt="Git" title="Git" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
+  &nbsp;
+  <img alt="FastAPI" title="FastAPI" height="36px"
+       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" />
+</p>
