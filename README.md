@@ -7,7 +7,7 @@ I build machine learning solutions at the intersection of **AI, medicine, and bi
 * 🩺 Combining a **medical background** with Data Science and Machine Learning
 * 🧠 Working with **classical ML, Deep Learning, Computer Vision, and biomedical data**
 * 🔬 Experienced with **medical imaging, clinical, microbiological, and genetic datasets**
-* ⚙️ Building **end-to-end ML pipelines** — from data preprocessing and experimentation to validation and deployment
+* ⚙️ Building **end-to-end ML pipelines** - from data preprocessing and experimentation to validation and deployment
 
 ---
 
